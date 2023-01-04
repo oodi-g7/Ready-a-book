@@ -29,3 +29,4 @@
 
 ## 사고싶은 책
     1. TCP/IP Illustrated (http://www.yes24.com/Product/goods/8234905)
+    2. 스프링부트와 aws로 혼자 구현하는 웹서비스
