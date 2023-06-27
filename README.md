@@ -1,5 +1,5 @@
 # Ready-a-book
-- ✨ A book is a dream you hold in your hands _Neil Gaiman ✨
+### ✨ A book is a dream you hold in your hands _Neil Gaiman ✨
 
 ## 읽는중
     -
@@ -19,7 +19,7 @@
 12. 스프링부트와 AWS로 혼자 구현하는 웹 서비스
 
 ## 읽은 책
-   -
+    -
 
 ## 사고싶은 책
-1. TCP/IP Illustrated (http://www.yes24.com/Product/goods/8234905)
+1. [TCP/IP Illustrated](http://www.yes24.com/Product/goods/8234905)
